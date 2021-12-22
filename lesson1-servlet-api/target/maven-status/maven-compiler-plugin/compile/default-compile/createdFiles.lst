@@ -1,0 +1,8 @@
+ru\gb\EncodingFilter.class
+ru\gb\persist\ProductRepositoryImpl.class
+ru\gb\ProductServlet.class
+ru\gb\FirstHTTPServlet.class
+ru\gb\persist\Product.class
+ru\gb\persist\ProductRepository.class
+ru\gb\BootsrapListener.class
+ru\gb\FirstServlet.class
