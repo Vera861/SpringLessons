@@ -6,8 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="lesson1-servlet-api" />
+        <module name="lesson3_spring_mvc" />
+        <module name="lesson2_api" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="lesson1-servlet-api" target="6" />
+      <module name="lesson2_servlet-api" target="11" />
+    </bytecodeTargetLevel>
   </component>
 </project>

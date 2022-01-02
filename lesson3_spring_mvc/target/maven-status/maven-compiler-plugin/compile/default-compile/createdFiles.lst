@@ -1,0 +1,7 @@
+ru\gb\persist\ProductRepositoryImpl.class
+ru\gb\controller\ProductController.class
+ru\gb\AppConfig.class
+ru\gb\persist\Product.class
+ru\gb\persist\ProductRepository.class
+ru\gb\WebInitializer.class
+ru\gb\controller\NotFoundException.class
