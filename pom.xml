@@ -16,9 +16,7 @@
     </properties>
 
     <modules>
-        <module>lesson1-servlet-api</module>
-        <module>lesson2_spring</module>
         <module>lesson3_spring_mvc</module>
-        <module>lesson4_spring_boot</module>
+        <module>lesson2_api</module>
     </modules>
 </project>
